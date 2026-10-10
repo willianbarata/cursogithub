@@ -6,3 +6,11 @@ Objetivo: praticar o fluxo de versionamento.
 
 ## Como estudar
 Acompanhe as aulas e pratique os comandos.
+
+## Como executar
+
+Com o .NET SDK instalado, execute na raiz:
+
+```bash
+dotnet run --project src/Catalogo/Catalogo.csproj
+```
