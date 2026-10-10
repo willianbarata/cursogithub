@@ -17,4 +17,4 @@ dotnet run --project src/Catalogo/Catalogo.csproj
 
 incluindo um novo texto
 
-Status do projeto: em desenvolvimento.
+Status do projeto: pronto para testes.
