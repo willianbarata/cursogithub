@@ -14,3 +14,5 @@ Com o .NET SDK instalado, execute na raiz:
 ```bash
 dotnet run --project src/Catalogo/Catalogo.csproj
 ```
+
+incluindo um novo texto
