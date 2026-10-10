@@ -3,3 +3,4 @@ obj/
 .vs/
 *.user
 /configuracao.local.json
+/notas-locais.txt
