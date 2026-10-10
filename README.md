@@ -29,5 +29,3 @@ Incluindo novas informações
 poderia ser um método
 
 coloquei no commit sem querer
-
-Esta linha foi publicada por engano.
