@@ -4,4 +4,5 @@ Projeto de estudo de Git e GitHub.
 
 Objetivo: praticar o fluxo de versionamento.
 
-teste
+## Como estudar
+Acompanhe as aulas e pratique os comandos.
