@@ -19,3 +19,11 @@ incluindo um novo texto
 
 Status do projeto: 123.
 linha 21 sobrescrever.
+
+## Requisitos
+
+- Git instalado.
+- .NET SDK compatível com o projeto.
+
+Incluindo novas informações
+poderia ser um método
