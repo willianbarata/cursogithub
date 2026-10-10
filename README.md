@@ -17,5 +17,5 @@ dotnet run --project src/Catalogo/Catalogo.csproj
 
 incluindo um novo texto
 
-Status do projeto: desenvolvimento.
-TESTE PREFERENCIA
+Status do projeto: 123.
+linha 21 sobrescrever.
