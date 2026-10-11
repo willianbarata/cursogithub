@@ -29,3 +29,11 @@ Incluindo novas informações
 poderia ser um método
 
 coloquei no commit sem querer
+
+## Como compilar
+
+Na raiz do repositório, execute:
+
+```bash
+dotnet build src/Catalogo/Catalogo.csproj
+```
