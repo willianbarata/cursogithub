@@ -37,3 +37,5 @@ Na raiz do repositório, execute:
 ```bash
 dotnet build src/Catalogo/Catalogo.csproj
 ```
+
+Testando proteção de branch
